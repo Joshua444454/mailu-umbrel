@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: mailu
+category: Explorers
+name: Mailu
+version: "3.3.0"
+tagline: Simple, Mail Server
+description: >-
+  Simple Mail Sevrer Just What Your Umbrel Needs
+
+releaseNotes: >-
+  Mailu Has Reached Umbrel!
+
+developer: https://github.com/Mailu
+website: https://mailu.io/1.9/index.html
+dependencies:
+repo: https://github.com/Mailu/Mailu/discussions
+support: https://github.com/janoside/btc-rpc-explorer/discussions
+port: 8080
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: "/Mailu"
+defaultUsername: "default"
+defaultPassword: "default"
